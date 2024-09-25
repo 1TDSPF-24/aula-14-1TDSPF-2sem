@@ -7,7 +7,7 @@ export default function Produtos() {
 
   return (
     <div>
-        <h2>Produtos</h2>
+        <h1>Produtos</h1>
 
             {/* <table className="custom-table">
                 <thead>
